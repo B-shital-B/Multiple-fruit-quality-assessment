@@ -1,0 +1,11 @@
+Final Fruit Model Classification Report:
+              precision    recall  f1-score   support
+
+       apple       0.97      0.86      0.91       120
+      banana       1.00      1.00      1.00       120
+       mango       0.98      1.00      0.99       120
+      orange       0.89      0.97      0.93       120
+
+    accuracy                           0.96       480
+   macro avg       0.96      0.96      0.96       480
+weighted avg       0.96      0.96      0.96       480

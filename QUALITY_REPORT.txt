@@ -1,0 +1,10 @@
+Final Quality Model Classification Report:
+              precision    recall  f1-score   support
+
+       fresh       0.91      0.97      0.94       240
+      rotten       0.97      0.90      0.94       240
+
+    accuracy                           0.94       480
+   macro avg       0.94      0.94      0.94       480
+weighted avg       0.94      0.94      0.94       480
+  
